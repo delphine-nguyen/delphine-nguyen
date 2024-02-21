@@ -9,5 +9,5 @@
 
 ## My Projects
 
-- [SynSearch](https://github.com/AurelienSH/JADe_project1) -- API in Python to get movie recommendations based on a synopsis freely written by user
-- [Fake Quizlet](https://github.com/AurelienSH/JADe_project1) -- Quiz app in Java (create exercices, corrections, grades, level up/down)
+- [SynSearch](https://github.com/AurelienSH/JADe_project1) -- API to get movie recommendations based on a synopsis freely written by user [Python, transformers]
+- [Fake Quizlet](https://github.com/AurelienSH/JADe_project1) -- Quiz app (create exercices, corrections, grades, level up/down) [Java, OOP]
