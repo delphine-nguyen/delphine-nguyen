@@ -11,3 +11,4 @@
 
 - [SynSearch](https://github.com/AurelienSH/JADe_project1) -- API to get movie recommendations based on a synopsis freely written by user *[Python, transformers]*
 - [Fake Quizlet](https://github.com/AurelienSH/JADe_project1) -- Quiz app (create exercices, corrections, grades, level up/down) *[Java, OOP]*
+- WrapItUp (TBA) -- Multi-platform app to log gift ideas
